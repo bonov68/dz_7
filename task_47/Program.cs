@@ -6,7 +6,6 @@
 // 8 7,8 -7,1 9
 
 double [,]arr = new double [5, 5];
-// double rand = 78576576;
 
 for (int i = 0; i < 5; i++ )
 {
@@ -18,5 +17,5 @@ for (int i = 0; i < 5; i++ )
     }
 Console.WriteLine();
 }
-// Console.WriteLine({i, j});
+
 
